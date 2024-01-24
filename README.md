@@ -33,7 +33,7 @@ Implementation of secure sockets layer (SSL) for secure data transmission.
 7) Scalability:
 Designed with scalability in mind to accommodate a growing user base and increased messaging traffic.
 
-8} User-Friendly Interface:
+8) User-Friendly Interface:
 Create an intuitive and user-friendly interface with a clean design that is easy to navigate.
 
 The Real-Time Chat Application for Multiple Users aims to redefine communication standards by providing a reliable, secure, and feature-rich platform for individuals and groups to connect instantly and effortlessly. Whether for business collaboration, team communication, or social interaction, this application promises a seamless and enjoyable real-time chat experience.
