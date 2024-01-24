@@ -39,5 +39,7 @@ Create an intuitive and user-friendly interface with a clean design that is easy
 The Real-Time Chat Application for Multiple Users aims to redefine communication standards by providing a reliable, secure, and feature-rich platform for individuals and groups to connect instantly and effortlessly. Whether for business collaboration, team communication, or social interaction, this application promises a seamless and enjoyable real-time chat experience.
 
 Technology Stack:
+
 Front-end: HTML, CSS, JavaScript
+
 Back-end: NodeJs
